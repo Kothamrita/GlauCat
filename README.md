@@ -1,4 +1,4 @@
-# GlauCat 👁️
+# GlauCat 
 
 GlauCat is a web-based eye health screening prototype that explores how interactive vision tests, webcam-based eye tracking, and simple scoring can be combined into one application.
 
